@@ -4,7 +4,7 @@
 
     <groupId>com.jhillix.jrss</groupId>
     <artifactId>jrss</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>jrss</name>
