@@ -1,0 +1,8 @@
+
+#foreach ($feed in $feeds)
+
+          Title: ${feed.title}
+           Link: ${feed.link}
+       Pub Date: ${feed.pubDate}
+    Description: ${feed.description}
+#end
